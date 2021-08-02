@@ -1,0 +1,23 @@
+int main()
+[
+if
+{
+}
+elseif
+{
+}
+else
+{
+}
+
+do
+{
+while()
+{
+}
+}
+while();
+
+{
+}
+]
